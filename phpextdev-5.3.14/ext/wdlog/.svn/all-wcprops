@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog
+END
+config.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog/config.m4
+END
+test_php_write.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog/test_php_write.php
+END
+php_wdlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog/php_wdlog.h
+END
+test_wdlog_write.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog/test_wdlog_write.php
+END
+wdlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geili_dolphin/!svn/ver/13330/passport/trunk/api-b2c/phpextdev-5.3.14/ext/wdlog/wdlog.c
+END
